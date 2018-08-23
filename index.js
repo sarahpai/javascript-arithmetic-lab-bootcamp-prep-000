@@ -28,8 +28,8 @@ function inc(n){
   }
   
   function preserveDecimal(n){
-    parseInt('nonsense!',10)
     parseFloat('n')
+    parseInt('nonsense!',10)
     return parseFloat(n)
   }
   
