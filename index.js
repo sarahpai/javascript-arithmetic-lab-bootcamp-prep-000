@@ -30,7 +30,7 @@ function inc(n){
   
   function preserveDecimal(n){
     parseInt('n')
-    parseFloat('0')
+    parseFloat('n')
     return parseFloat(n)
   }
   
