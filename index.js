@@ -24,8 +24,7 @@ function inc(n){
   
   function makeInt(n) {
     parseInt('a')
-    parseInt('a', 10)
-    return parseInt(n)
+    return parseInt(n,10)
   }
   
   function preserveDecimal(n){
