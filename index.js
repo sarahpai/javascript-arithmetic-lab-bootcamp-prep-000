@@ -31,6 +31,6 @@ function inc(n){
   function preserveDecimal(n){
     parseInt('n')
     parseFloat('n')
-    return parseFloat(n)
+    return parseInt(n)
   }
   
