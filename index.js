@@ -24,7 +24,7 @@ function inc(n){
   
   function makeInt(n) {
     parseInt('a')
-    parseInt(10)
+    parseInt(0xf)
     return parseInt(n)
   }
   
